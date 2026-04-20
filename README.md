@@ -43,9 +43,12 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PanditJi94&theme=darkhub&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PanditJi94&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
+- 💻 Strong foundation in C, C++, Java  
+- 📚 Focused on mastering DSA  
+- 🚀 Actively building projects
 ---
 
 ## 📈 Activity Graph
